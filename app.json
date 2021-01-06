@@ -1,0 +1,12 @@
+{
+  "name": "kotakamal-apps",
+  "displayName": "kotakamal-apps",
+  "expo": {
+    "name": "kotakamal-apps",
+    "slug": "kotakamal-apps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
